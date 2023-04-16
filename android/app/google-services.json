@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711850248233",
+    "project_id": "bwi-shopifyapp",
+    "storage_bucket": "bwi-shopifyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711850248233:android:375da745127f9336233438",
+        "android_client_info": {
+          "package_name": "com.app.bwi_shopify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711850248233-q0ouo6ebd8pffus4tk1f6cab6jdtqgrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7AJuXXSjPSy9aLymLgL_owHKkLXYsmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711850248233-q0ouo6ebd8pffus4tk1f6cab6jdtqgrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
